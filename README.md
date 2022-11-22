@@ -1,6 +1,6 @@
 # TAREA-5_6
 
-                                              UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 Nombre: Salazar Juan
 
 NRC: 10063
