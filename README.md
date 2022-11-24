@@ -257,5 +257,16 @@ Resolucion de ejercicios del libro de Floyd
 
 ![image](https://user-images.githubusercontent.com/116821649/203674533-eaa8fc35-e8c2-4519-9d17-3e216a78f326.png)
 
-48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:  
+48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: 
 
+* Video
+
+* Conclusiones
+
+En conclusión, con la realizacion de los ejercicios pertenecientes a los capitulos 5 y 6 aprendi las diferencias que hay entre los circuitos en serie y en paralelo, ademas, percibi las caracteristicas que hacen que cada tipo de circuito pueda tener una mayor eficiencia en diferentes circunstancias.
+
+Finalmente, estos dos capitulos logramos comprender de mejor manera cual es el comportamiento de los resistores, voltajes y corrientes en un circuito en serie y paralelo, ademas, conocimos las distintas aplicaciones que tiene la ley de ohm en esta clase de circuito.
+
+* Bibliografias
+
+(Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
