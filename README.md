@@ -257,9 +257,9 @@ Resolucion de ejercicios del libro de Floyd
 
 ![image](https://user-images.githubusercontent.com/116821649/203674533-eaa8fc35-e8c2-4519-9d17-3e216a78f326.png)
 
-48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: 
-
 * Video
+
+
 
 * Conclusiones
 
